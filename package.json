@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "eslint-config-airbnb": "18.0.1",
-    "http-proxy": "1.18.0",
+    "http-proxy": "1.18.1",
     "zlib": "1.0.5"
   },
   "devDependencies": {
